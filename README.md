@@ -4,7 +4,7 @@
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
-## Software Required:
+## Software Required
 Anaconda - Python 3.7
 
 ## Algorithm:
