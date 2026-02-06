@@ -5,7 +5,8 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 ## Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:
+## Algo
+rithm:
 ### Step1:
 
 Import necessary libraries such as OpenCV, NumPy, and Matplotlib for image processing and visualization.
@@ -114,3 +115,8 @@ display_image(cropped_image, 'Cropped Image')
 <img width="499" height="169" alt="image" src="https://github.com/user-attachments/assets/a572165e-3fb2-4d5b-9c3b-af1600f805c8" />
 <img width="495" height="368" alt="image" src="https://github.com/user-attachments/assets/a764c0b7-6790-4378-a9dd-00713256475e" />
 <img width="493" height="363" alt="image" src="https://github.com/user-attachments/assets/d4ff80ef-b964-4d86-9eff-6d6dea73f0d8" />
+
+
+## Result: 
+
+Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming
